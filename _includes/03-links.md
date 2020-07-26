@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+#This header is before the link to github
+[GitHub](http://github.com)
