@@ -1,5 +1,6 @@
-**I know github!
-*This is in italics..
+**I know github!  
+
+
 And all the laguages below:
 * C++
 * C#
@@ -9,4 +10,4 @@ And all the laguages below:
 
 _this is also italics
 
-:tree:
+**This tutorial is not auto detecting..
